@@ -1,5 +1,5 @@
 # Iris Classificationn
-This is my machine learning project Iris Classification which classify iris using classifier MLAlgorithm.
+This is my machine learning project Iris Classification which classify iris using classifier ML algorithm.
 
 # Demo
 
